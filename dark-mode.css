@@ -1,8 +1,57 @@
-* {
-    background-color: #1c1c1c !important;
-    color: #f0f0f0 !important;
+/* RedFlagDeals.com Dark Mode CSS */
+
+/* Body styles */
+body {
+  background-color: #1a1a1a;
+  color: #e6e6e6;
 }
 
-a {
-    color: #9cd3fc !important;
+/* Link styles */
+a, a:visited {
+  color: #8cc2ff;
+  text-decoration: none;
 }
+
+a:hover, a:active {
+  color: #b3d7ff;
+  text-decoration: underline;
+}
+
+/* Heading styles */
+h1, h2, h3, h4, h5, h6 {
+  color: #b3b3b3;
+}
+
+/* Post/thread styles */
+.post, .thread {
+  background-color: #262626;
+  border-color: #404040;
+}
+
+.post-content, .thread-content {
+  color: #e6e6e6;
+}
+
+/* Forum styles */
+.forum {
+  background-color: #262626;
+  border-color: #404040;
+}
+
+.forum-title, .forum-description {
+  color: #b3b3b3;
+}
+
+/* Button styles */
+button, .button {
+  background-color: #404040;
+  color: #e6e6e6;
+  border-color: #595959;
+}
+
+button:hover, .button:hover {
+  background-color: #595959;
+  color: #ffffff;
+}
+
+/* Other styles as needed */
