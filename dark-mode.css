@@ -2,18 +2,18 @@
 
 /* Body styles */
 body {
-  background-color: #1a1a1a;
-  color: #e6e6e6;
+  background-color: #222222;
+  color: #f2f2f2;
 }
 
 /* Link styles */
 a, a:visited {
-  color: #8cc2ff;
+  color: #4db6ac;
   text-decoration: none;
 }
 
 a:hover, a:active {
-  color: #b3d7ff;
+  color: #80cbc4;
   text-decoration: underline;
 }
 
@@ -24,18 +24,18 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Post/thread styles */
 .post, .thread {
-  background-color: #262626;
-  border-color: #404040;
+  background-color: #2b2b2b;
+  border-color: #444444;
 }
 
 .post-content, .thread-content {
-  color: #e6e6e6;
+  color: #f2f2f2;
 }
 
 /* Forum styles */
 .forum {
-  background-color: #262626;
-  border-color: #404040;
+  background-color: #2b2b2b;
+  border-color: #444444;
 }
 
 .forum-title, .forum-description {
@@ -44,13 +44,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Button styles */
 button, .button {
-  background-color: #404040;
-  color: #e6e6e6;
-  border-color: #595959;
+  background-color: #444444;
+  color: #f2f2f2;
+  border-color: #555555;
 }
 
 button:hover, .button:hover {
-  background-color: #595959;
+  background-color: #555555;
   color: #ffffff;
 }
 
